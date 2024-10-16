@@ -16,7 +16,7 @@ import java.util.Set;
 public class Foyer {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    long idFoyer;
+    long idFoyer1;
     String nomFoyer;
     long capaciteFoyer;
     //ASSOCIATIONS
